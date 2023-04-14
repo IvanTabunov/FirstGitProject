@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstGitProject</string>
+    <string name="my_first_commit_and_push">My first commit and push!</string>
 </resources>
